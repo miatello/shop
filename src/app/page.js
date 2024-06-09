@@ -1,8 +1,4 @@
-
-export default async function Home() {
-
-  return (
-    <main>
-    </main>
-  );
+import Main from "./componentes/Main.js";
+export default function Home() {
+  return <Main />;
 }

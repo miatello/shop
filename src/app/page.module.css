@@ -1,0 +1,91 @@
+.logo {
+    width: 150px;
+    height: 60px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 20px;
+    justify-content: space-between;
+}
+.footer p{
+    justify-content: center;
+}
+
+.footerlogo{
+    width: 80px;
+    justify-content: space-between;
+}
+.socialrds li a{
+    text-decoration: none;
+    color: #007bff;
+    justify-content: space-around;
+}
+.nada{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ee4a0f;
+    padding: 20px;
+}
+.frasemark{
+    font-size: 18px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.botaoadc{
+    background-color: rgb(210, 87, 43);
+    text-decoration-color: bisque;
+}
+.main{
+    padding: 20px;
+    background-color: antiquewhite;
+    color: gray;
+}
+.titulo{
+    margin-bottom: 20px;
+    color: #3e3734;
+}
+.produtos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.card{
+    background-color: #f1f1f1;
+    border: 1px solid #007bff;
+    border-radius: 8px;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.titulop{
+    color: #ee4a0f;
+    margin-bottom: 10px;
+}
+.imagemp{
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.precop{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.descricaop{
+    margin-bottom: 10px;
+    color: black;
+}
+.categoriap{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.countp{
+    color: gray;
+}
