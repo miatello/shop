@@ -1,0 +1,101 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.page_logo__7fc9l {
+    width: 150px;
+    height: 60px;
+}
+.page_footer__sHKi3{
+    display: flex;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 20px;
+    justify-content: space-between;
+}
+.page_footer__sHKi3 p{
+    justify-content: center;
+}
+
+.page_footerlogo__s9b55{
+    width: 80px;
+    justify-content: space-between;
+}
+.page_socialrds__dHS38 li a{
+    text-decoration: none;
+    color: #007bff;
+    justify-content: space-around;
+}
+.page_nada__sEMEA{
+    text-decoration: none;
+}
+
+.page_header__kVzhN{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ee4a0f;
+    padding: 20px;
+}
+.page_frasemark__0kQrP{
+    font-size: 18px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.page_botaoadc__U6AIt{
+    background-color: rgb(210, 87, 43);
+    -webkit-text-decoration-color: bisque;
+            text-decoration-color: bisque;
+}
+.page_main__GlU4n{
+    padding: 20px;
+    background-color: antiquewhite;
+    color: gray;
+}
+.page_titulo__k5evp{
+    margin-bottom: 20px;
+    color: #3e3734;
+}
+.page_produtos__7YLg6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.page_card__QV0Om{
+    background-color: #f1f1f1;
+    border: 1px solid #007bff;
+    border-radius: 8px;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.page_titulop__Fcz2k{
+    color: #ee4a0f;
+    margin-bottom: 10px;
+}
+.page_imagemp__yDTOo{
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.page_precop__9IhTZ{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.page_descricaop__RRjem{
+    margin-bottom: 10px;
+    color: black;
+}
+.page_categoriap__kxqLo{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.page_countp__g2hgB{
+    color: gray;
+}
+
+.page_spinnerContainer__Jg0j8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

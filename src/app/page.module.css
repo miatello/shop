@@ -89,3 +89,9 @@
 .countp{
     color: gray;
 }
+
+.spinnerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
